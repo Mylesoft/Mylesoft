@@ -90,20 +90,6 @@ AI-powered school management platform serving 500+ schools and 250,000+ students
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mylesoft&show_icons=true&theme=dark&title_color=C4972A&icon_color=C4972A&text_color=ffffff&bg_color=1B3A6B&border_color=C4972A&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mylesoft&layout=compact&theme=dark&title_color=C4972A&text_color=ffffff&bg_color=1B3A6B&border_color=C4972A)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mylesoft&theme=dark&background=1B3A6B&ring=C4972A&fire=C4972A&currStreakLabel=C4972A&border=C4972A)
-
-</div>
-
----
-
 ## 🏢 Mylesoft Product Portfolio
 
 | Status | Product | Sector |
