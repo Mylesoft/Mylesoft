@@ -1,113 +1,149 @@
-# Hey, I'm Jonathan Myles 👋
+<div align="center">
 
-> Full-Stack Developer · Building tech for Africa 🌍 · Nairobi, Kenya
+<img src="https://raw.githubusercontent.com/Mylesoft-Technologies/.github/main/assets/mylesoft-logo.png" width="250"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathan-myles)
-[![Portfolio](https://img.shields.io/badge/mylesoft.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mylesoft.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayany004@gmail.com)
+# Hi, I'm Jonathan Myles 👋
+### Founder & CEO · Mylesoft Technologies Limited
+### Full-Stack Developer · AI Enthusiast · East African Tech Builder
+
+[![Website](https://img.shields.io/badge/Website-mylesoft.com-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mylesoft.com)
+[![Email](https://img.shields.io/badge/Email-ayany004@gmail.com-C4972A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayany004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Myles-1B3A6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanmyles)
+[![Twitter](https://img.shields.io/badge/Twitter-@JonathanMyles-1B3A6B?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonathanmyles)
+[![Phone](https://img.shields.io/badge/Call-0743993715-2EA44F?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254743993715)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🌍 About Me
 
-I'm the founder of **[Mylesoft Technologies Ltd](https://mylesoft.com)**, building innovative software solutions for Africa across education, retail, and healthcare. I believe in technology that solves real problems for real people — from smart farms in the Rift Valley to school management systems across Kenya.
+I'm a **self-taught full-stack software engineer** and entrepreneur from Nairobi, Kenya. In 2020, I founded **Mylesoft Technologies Limited** — East Africa's leading AI-powered software company — with a mission to build world-class, affordable, and locally-relevant technology solutions that transform critical industries across Africa.
 
-- 🔭 Currently building **scalable SaaS products for the African market**
-- 🌱 Exploring **AI/ML integrations for agriculture and healthcare**
-- 💼 Open to **collaborations, partnerships & freelance opportunities**
+I believe technology's greatest potential lies not in its sophistication, but in its **application to solve real-world African problems.**
+
+- 🔭 Currently building **EduMyles** — East Africa's leading school management platform
+- 🌱 Expanding **Mylesoft's** portfolio across 18 industries in East Africa
+- 🤖 Passionate about **AI, African NLP**, and building products that matter
 - 📍 Based in **Nairobi, Kenya**
-- 🌐 Visit me at **[mylesoft.com](https://mylesoft.com)**
+- 💬 Ask me about **Next.js, Convex, React Native, M-Pesa integration, WorkOS**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Mylesoft Technologies
+East Africa's leading AI-powered SaaS company with 20+ products across 18 sectors, serving 500+ organisations across all 47 Kenyan counties.
+
+[![Mylesoft](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/Mylesoft-Technologies)
+
+</td>
+<td width="50%">
+
+### 🎓 EduMyles
+AI-powered school management platform serving 500+ schools and 250,000+ students across East Africa.
+
+[![EduMyles](https://img.shields.io/badge/Repo-edumyles-2EA44F?style=flat-square&logo=github)](https://github.com/Mylesoft-Technologies/edumyles)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-1B3A6B?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C4972A?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B3A6B?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Backend**
-![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1B3A6B?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-1B3A6B?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native_(Expo)-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-2EA44F?style=for-the-badge&logo=node.js&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-1B3A6B?style=for-the-badge&logo=convex&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B3A6B?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Auth & Payments**
-![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=flat-square&logo=workos&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white)
-![M-Pesa](https://img.shields.io/badge/M--Pesa-00A651?style=flat-square&logo=mpesa&logoColor=white)
 
-**Communication & Cloud**
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WorkOS](https://img.shields.io/badge/WorkOS-000000?style=for-the-badge&logo=workos&logoColor=white)
+![M-Pesa](https://img.shields.io/badge/M--Pesa%20Daraja-2EA44F?style=for-the-badge&logo=safaricom&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
----
+**DevOps & Tools**
 
-## 🏆 Flagship Product — EduMyles
-
-[![EduMyles](https://img.shields.io/badge/EduMyles-edumyles.com-4CAF50?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://edumyles.com)
-[![Repo](https://img.shields.io/badge/GitHub-Mylesoft--Technologies/edumyles-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mylesoft-Technologies/edumyles)
-
-> **EduMyles** is a multi-tenant, modular school management platform built for East Africa. Every school gets its own subdomain (`{school}.edumyles.com`), with full tenant isolation, real-time data, and payments via M-Pesa, Airtel Money & Stripe.
-
-### 🧩 Modules
-
-| Domain | Features |
-|--------|----------|
-| 🎓 **SIS** | Student Information System — profiles, enrollment, records |
-| 📋 **Admissions** | Applications, enrollment workflows |
-| 💰 **Finance** | Fee management, invoicing, M-Pesa / Airtel Money / Stripe / Bank Transfer |
-| 📅 **Timetable** | Scheduling & conflict resolution |
-| 📚 **Academics** | Gradebook, assessments, curriculum |
-| 👥 **HR & Payroll** | Staff management, payroll |
-| 📖 **Library** | Book cataloguing & borrowing |
-| 🚌 **Transport** | Route & fleet management |
-| 📣 **Communications** | SMS (Africa's Talking), Email (Resend), push notifications |
-| 💳 **eWallet** | In-platform school wallet |
-| 🛒 **eCommerce** | School shop / uniform store |
-
-### 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | Next.js 15 (App Router) · Tailwind CSS · shadcn/ui |
-| Backend | Convex (real-time serverless DB + compute) |
-| Auth | WorkOS (magic links, SSO, Organizations) |
-| Mobile | React Native (Expo) — iOS & Android |
-| SMS | Africa's Talking |
-| Email | Resend + React Email |
-| Payments | M-Pesa (Daraja) · Airtel Money · Stripe · Bank Transfer |
-| Hosting | Vercel (subdomain routing per tenant) |
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| 🏫 **EduMyles** | Multi-tenant school management SaaS for East Africa — 11 modules, M-Pesa payments, real-time data, per-school subdomains | Next.js 15, Convex, WorkOS, React Native | [Live](https://edumyles.com) · [Code](https://github.com/Mylesoft-Technologies/edumyles) |
-| 🌿 **Ayoo Smart Farm** | IoT-powered smart farming system — sensors, automation, and real-time dashboards | Python, IoT, React | [Code](https://github.com/Mylesoft/Ayoo-Smart-Farm-) |
-| 🤖 **MCP Server with Auth** | Advanced Model Context Protocol server with authentication layer | Python | [Code](https://github.com/Mylesoft/AdvancedMCPServerWithAuth) |
-| 🚀 **[Your Next Project]** | Add your next original project here | React, Node.js | [Live](#) · [Code](#) |
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1B3A6B?style=for-the-badge&logo=github&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mylesoft&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mylesoft&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+<div align="center">
+
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mylesoft&show_icons=true&theme=dark&title_color=C4972A&icon_color=C4972A&text_color=ffffff&bg_color=1B3A6B&border_color=C4972A&hide_border=false&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mylesoft&layout=compact&theme=dark&title_color=C4972A&text_color=ffffff&bg_color=1B3A6B&border_color=C4972A)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mylesoft&theme=dark&background=1B3A6B&ring=C4972A&fire=C4972A&currStreakLabel=C4972A&border=C4972A)
+
+</div>
 
 ---
 
-## 🌍 Building for Africa
+## 🏢 Mylesoft Product Portfolio
 
-At **Mylesoft Technologies**, we focus on solving uniquely African challenges with world-class software — from agricultural automation to healthcare data management. If you're working on impactful tech for the continent, let's connect.
+| Status | Product | Sector |
+|--------|---------|--------|
+| ✅ Live | [EduMyles](https://github.com/Mylesoft-Technologies/edumyles) | Education |
+| ✅ Live | [EduRyde](https://github.com/Mylesoft-Technologies/eduryde) | Transportation |
+| ✅ Live | [MylesCare](https://github.com/Mylesoft-Technologies/mylescare) | Healthcare |
+| ✅ Live | [MylesCRM](https://github.com/Mylesoft-Technologies/mylescrm) | Business |
+| ✅ Live | [AgriMyles](https://github.com/Mylesoft-Technologies/agrimyles) | Agriculture |
+| 🔨 In Dev | MylesRealtors | Real Estate |
+| 🔨 In Dev | MylesRide | Transport |
+| 🔨 In Dev | MylesLogistics | Logistics |
+| 🔨 In Dev | MylesFinance | Finance |
+| 🗺️ Roadmap | MylesRetail, MylesBuild, MylesEnergy + 5 more | Various |
 
-📧 **[ayany004@gmail.com](mailto:ayany004@gmail.com)** · 🌐 **[mylesoft.com](https://mylesoft.com)** · 💼 **[linkedin.com/in/jonathan-myles](https://linkedin.com/in/jonathan-myles)**
+---
+
+## 💡 My Philosophy
+
+> *"Technology's greatest potential lies not in its sophistication, but in its application to solve real-world African problems."*
+> — **Jonathan Myles**
+
+---
+
+## 📬 Get in Touch
+
+| | |
+|--|--|
+| 🌐 Company | [www.mylesoft.com](https://www.mylesoft.com) |
+| 📧 Personal | [ayany004@gmail.com](mailto:ayany004@gmail.com) |
+| 📧 Business | [info@mylesoft.com](mailto:info@mylesoft.com) |
+| 📞 Phone | +254 743 993 715 |
+| 📍 Location | Westlands, Nairobi, Kenya |
+
+---
+
+<div align="center">
+
+*Building technology that transforms industries and empowers generations.* 🌍
+
+**© 2025 Jonathan Myles · Mylesoft Technologies Limited**
+
+</div>
