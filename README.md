@@ -147,3 +147,5 @@ AI-powered school management platform serving 500+ schools and 250,000+ students
 **© 2025 Jonathan Myles · Mylesoft Technologies Limited**
 
 </div>
+
+
