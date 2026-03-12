@@ -18,7 +18,7 @@
 
 ## 🌍 About Me
 
-I'm a **self-taught full-stack software engineer** and entrepreneur from Nairobi, Kenya. In 2020, I founded **Mylesoft Technologies Limited** — East Africa's leading AI-powered software company — with a mission to build world-class, affordable, and locally-relevant technology solutions that transform critical industries across Africa.
+I'm a  **full-stack software engineer** and entrepreneur from Nairobi, Kenya. In 2020, I founded **Mylesoft Technologies Limited** — East Africa's leading AI-powered software company — with a mission to build world-class, affordable, and locally-relevant technology solutions that transform critical industries across Africa.
 
 I believe technology's greatest potential lies not in its sophistication, but in its **application to solve real-world African problems.**
 
@@ -144,7 +144,7 @@ AI-powered school management platform serving 500+ schools and 250,000+ students
 
 *Building technology that transforms industries and empowers generations.* 🌍
 
-**© 2025 Jonathan Myles · Mylesoft Technologies Limited**
+**© 2026 Jonathan Myles · Mylesoft Technologies Limited**
 
 </div>
 
