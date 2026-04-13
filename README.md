@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Mylesoft-Technologies/.github/main/assets/mylesoft-logo.png" width="250"/>
 
 # Hi, I'm Jonathan Myles 👋
-### Founder & CEO · Mylesoft Technologies Limited
+### Founder & CEO · MylesCorp Technologies 
 ### Full-Stack Developer · AI Enthusiast · East African Tech Builder
 
 [![Website](https://img.shields.io/badge/Website-mylesoft.com-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mylesoft.com)
