@@ -39,7 +39,7 @@ I believe technology's greatest potential lies not in its sophistication, but in
 ### 🏢 MylesCorp Technologies
 A Nairobi-based SaaS company building industry-specific products for East African businesses and institutions — schools, clinics, farms, and beyond.
 
-[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/MylesCorp-Technologies)
+[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/mylescorp)
 
 </td>
 <td width="50%">
