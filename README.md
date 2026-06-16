@@ -124,7 +124,7 @@ Multi-tenant school management platform built for Kenyan and East African school
 
 <div align="center">
 
-*Building the operating system for East African institutions.* 🌍
+*Transforming Industries, Empowering Generation.* 🌍
 
 **© 2026 Jonathan Myles · MylesCorp Technologies**
 
