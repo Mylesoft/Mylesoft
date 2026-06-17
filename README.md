@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mylesoft-Technologies/.github/main/assets/mylesoft-logo.png" width="250"/>
+<img src="https://raw.githubusercontent.com/mylescorp/.github/main/assets/mylescorp-logo.jpeg" width="250"/>
 
 # Hi, I'm Jonathan Myles 👋
 ### Founder & CEO · MylesCorp Technologies
@@ -8,8 +8,9 @@
 
 [![Website](https://img.shields.io/badge/Website-mylescorptech.com-1B3A6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mylescorptech.com)
 [![Email](https://img.shields.io/badge/Email-info@mylescorptech.com-C4972A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mylescorptech.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Myles-1B3A6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanmyles)
-[![Twitter](https://img.shields.io/badge/Twitter-@mylescorptech-1B3A6B?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mylescorptech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Myles-1B3A6B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mylesoft)
+[![Twitter](https://img.shields.io/badge/Twitter-@ayany__jona13809-1B3A6B?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ayany_jona13809)
+[![Facebook](https://img.shields.io/badge/Facebook-Jonathan.Mylesoft-1B3A6B?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jonathan.Mylesoft)
 [![Phone](https://img.shields.io/badge/Call-0743993715-2EA44F?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+254743993715)
 
 </div>
@@ -39,7 +40,7 @@ I believe technology's greatest potential lies not in its sophistication, but in
 ### 🏢 MylesCorp Technologies
 A Nairobi-based SaaS company building industry-specific products for East African businesses and institutions — schools, clinics, farms, and beyond.
 
-[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/Mylesoft-Technologies)
+[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/mylescorp)
 
 </td>
 <td width="50%">
@@ -47,7 +48,7 @@ A Nairobi-based SaaS company building industry-specific products for East Africa
 ### 🎓 EduMyles
 Multi-tenant school management platform built for Kenyan and East African schools — from admissions and fees to academics and communications.
 
-[![EduMyles](https://img.shields.io/badge/Repo-edumyles-2EA44F?style=flat-square&logo=github)](https://github.com/Mylesoft-Technologies/edumyles)
+[![EduMyles](https://img.shields.io/badge/Repo-edumyles-2EA44F?style=flat-square&logo=github)](https://github.com/mylescorp/edumyles)
 
 </td>
 </tr>
@@ -94,12 +95,12 @@ Multi-tenant school management platform built for Kenyan and East African school
 
 | Status | Product | Sector |
 |--------|---------|--------|
-| 🔨 Active build | [EduMyles](https://github.com/Mylesoft-Technologies/edumyles) | Education |
-| 🔨 Active build | [EduRyde](https://github.com/Mylesoft-Technologies/eduryde) | School Transport |
-| 🔨 Active build | [MylesCare](https://github.com/Mylesoft-Technologies/mylescare) | Healthcare |
-| 🔨 Active build | [MylesCRM](https://github.com/Mylesoft-Technologies/mylescrm) | CRM |
-| 🔨 Active build | [MylesProp](https://github.com/Mylesoft-Technologies/mylesprop) | Property & Rentals |
-| 🔨 Active build | [AgriMyles](https://github.com/Mylesoft-Technologies/agrimyles) | Agriculture |
+| 🔨 Active build | [EduMyles](https://github.com/mylescorp/edumyles) | Education |
+| 🔨 Active build | [EduRyde](https://github.com/mylescorp/eduryde) | School Transport |
+| 🔨 Active build | [MylesCare](https://github.com/mylescorp/mylescare) | Healthcare |
+| 🔨 Active build | [MylesCRM](https://github.com/mylescorp/mylescrm) | CRM |
+| 🔨 Active build | [MylesProp](https://github.com/mylescorp/mylesprop) | Property & Rentals |
+| 🔨 Active build | [AgriMyles](https://github.com/mylescorp/agrimyles) | Agriculture |
 | 🗺️ Roadmap | MylesNet, LegalMyles, FinMyles + more | Various |
 
 ---
