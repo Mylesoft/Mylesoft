@@ -39,7 +39,7 @@ I believe technology's greatest potential lies not in its sophistication, but in
 ### 🏢 MylesCorp Technologies
 A Nairobi-based SaaS company building industry-specific products for East African businesses and institutions — schools, clinics, farms, and beyond.
 
-[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/mylescorp)
+[![MylesCorp](https://img.shields.io/badge/Org-Mylesoft--Technologies-1B3A6B?style=flat-square&logo=github)](https://github.com/Mylesoft-Technologies)
 
 </td>
 <td width="50%">
@@ -124,7 +124,7 @@ Multi-tenant school management platform built for Kenyan and East African school
 
 <div align="center">
 
-*Transforming Industries, Empowering Generation.* 🌍
+*Transforming Industries, Empowering Generations.* 🌍
 
 **© 2026 Jonathan Myles · MylesCorp Technologies**
 
